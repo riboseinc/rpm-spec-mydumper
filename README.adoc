@@ -1,11 +1,9 @@
 = Ribose RPM Spec for mydumper
 
-image:https://img.shields.io/travis/riboseinc/rpm-spec-mydumper/master.svg[Build Status (Travis CI), link=https://travis-ci.org/riboseinc/rpm-spec-mydumper]
+image:https://gitlab.com/ribose/rpm-spec/rpm-spec-mydumper/badges/master/pipeline.svg[Build Status (GitLab CI), link=https://gitlab.com/ribose/rpm-spec/rpm-spec-mydumper/commits/master]
 
 == Introduction
 
 This repository hosts the RPM spec & related Docker files for building the RPM
 package.
 
-It uses code from https://github.com/riboseinc/rpm-specs[`rpm-specs`]
-(added as a Git submodule).
